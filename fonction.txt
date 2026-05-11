@@ -1,0 +1,3 @@
+def carre(nombre):
+    carre = nombre * nombre
+    return carre
