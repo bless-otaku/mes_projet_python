@@ -36,8 +36,8 @@ print(convertir_en_dollar(100))'''
     return afficher
 print(longueur_nom("BAKUBANYA"))'''
 
-def trouver_maximum(nombres):
+'''def trouver_maximum(nombres):
     grand = max(nombres)
     afficher = f'{grand} est le plus gr'
     return afficher
-print(trouver_maximum([1,2,3,4,5,6,7,8,9]))
+print(trouver_maximum([1,2,3,4,5,6,7,8,9]))'''
